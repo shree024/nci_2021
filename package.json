@@ -1,0 +1,27 @@
+{
+  "name": "x20206283",
+  "version": "1.0.0",
+  "description": "blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shree024/nci_2021.git"
+  },
+  "author": "x20206283",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shree024/nci_2021/issues"
+  },
+  "homepage": "https://github.com/shree024/nci_2021#readme",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "big-numbers": "^0.1.4",
+    "bignumber.js": "^9.0.1",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "web3": "^1.6.1"
+  }
+}
